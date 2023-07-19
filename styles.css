@@ -116,7 +116,6 @@ input::placeholder {
 .signIn-section-form {
   display: flex;
   flex-direction: column;
-  /* width: 22rem; */
   gap: 0.5em;
   margin: 1.25em auto;
 }
@@ -386,7 +385,7 @@ input::placeholder {
   /* FOOTER */
 
   .footer {
-    padding: 3.5em 6em;
+    padding: 4em 6em;
   }
 
   .footer > div {
