@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/](https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-layout)
-- Live Site URL: [abulhashim.github.io/Stats-preview-card](https://abulhashim.github.io/Fylo-Landing-Page-with-two-Column-Layout/)
+- Solution URL: [frontendmentor.io/solutions/](https://www.frontendmentor.io/solutions/Fylo-Landing-Page-with-two-Column-Layout)
+- Live Site URL: [abulhashim.github.io/Stats-preview-card]((https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-layout-l8hctDDkaW))
 
 ## My process
 
